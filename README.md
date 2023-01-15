@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<!--[START github.com/yo-goto/feedsnippet]-->
+<!--[START github.com/ikawaha/feedsnippet]-->
 
-<!--[END github.com/yo-goto/feedsnippet]-->
+<!--[END github.com/ikawaha/feedsnippet]-->
 
 <!--
 **yo-goto/yo-goto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
