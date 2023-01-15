@@ -1,0 +1,9 @@
+- urls:
+    - https://zenn.dev/estra/feed
+  template: |-
+      **Zenn**
+      {{range . -}}
+        * ![](./icon/zenn.png) [{{ .Title }}]({{ .Link }})
+      {{ end }}
+  limit: 10
+  sort_by_published: true
