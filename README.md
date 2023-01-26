@@ -2,7 +2,10 @@
 
 ## 🐙 GitHub status
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yo-goto&layout=compact)](https://github.com/anuraghazra/github-readme-stats) ![PADAone's GitHub stats](https://github-readme-stats.vercel.app/api?username=yo-goto&show_icons=true)
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yo-goto&count_private=true&layout=compact&show_icons=true)" />
+  <img alt="GitHub stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=yo-goto&count_private=true&show_icons=true" />
+</p>
 
 ## ![](./icon/zenn.png) Recent Posts from Zenn
 
