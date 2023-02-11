@@ -11,7 +11,8 @@
 
 [![Likes](https://badgen.org/img/zenn/estra/likes?style=flat)](https://zenn.dev/estra) [![Articles](https://badgen.org/img/zenn/estra/articles?style=flat)](https://zenn.dev/estra) [![Books](https://badgen.org/img/zenn/estra/books?style=flat)](https://zenn.dev/estra?tab=books)
 
-<!--[START github.com/ikawaha/feedsnippet]--><!--[2023-01-15T06:04:13Z]-->
+<!--[START github.com/ikawaha/feedsnippet]--><!--[2023-02-11T00:35:21Z]-->
+* [Zenn の VSCode Web 拡張にプルリクエストしてみた](https://zenn.dev/estra/articles/prs-for-zenn-vscode-ext)
 * [Obsidian.Zenn](https://zenn.dev/estra/books/obsidian-dot-zenn)
 * [TypeScript the Minimum: Deno で始めるミニマム TypeScript](https://zenn.dev/estra/books/ts-the-minimum)
 * [Narrowing Pattern](https://zenn.dev/estra/articles/typescript-narrowing-patterns)
@@ -21,6 +22,5 @@
 * [TypeScript の基礎から Promise の型注釈まで駆け登る](https://zenn.dev/estra/articles/ts-with-promise-type-annotation)
 * [Zennで本を作ってみた感想と本作りで得た知見](https://zenn.dev/estra/articles/zenn-book-making-impression)
 * [V8エンジンによる内部変換コードでasync/awaitの挙動を理解する](https://zenn.dev/estra/articles/asyncawait-v8-converting)
-* [イベントループとプロミスチェーンで学ぶJavaScriptの非同期処理](https://zenn.dev/estra/books/js-async-promise-chain-event-loop)
 <!--[END github.com/ikawaha/feedsnippet]-->
 
